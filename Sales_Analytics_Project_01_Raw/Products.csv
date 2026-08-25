@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Category,Unit_Cost,List_Price
+P001,Wireless Mouse,Accessories,8,15
+P002,Mechanical Keyboard,Accessories,35,65
+P003,USB-C Hub,Accessories,18,35
+P004,Laptop Stand,Accessories,22,45
+P005,Webcam HD,Electronics,28,55
+P006,Bluetooth Speaker,Electronics,25,50
+P007,Power Bank,Accessories,15,30
+P008,External SSD,Storage,55,85
+P009,Monitor 24in,Monitors,105,145
+P010,Monitor 27in,Monitors,165,225
+P011,Office Chair,Furniture,70,110
+P012,Desk Lamp,Furniture,18,32
+P013,Headset,Accessories,24,45
+P014,HDMI Cable,Accessories,5,10
+P015,USB Flash 64GB,Storage,7,14
+P016,Tablet 10in,Tablets,120,165
+P017,Smartphone A,Smartphones,210,285
+P018,Smartphone B,Smartphones,280,360
+P019,Printer,Office Equipment,85,125
+P020,Router,Networking,32,55

@@ -25,10 +25,10 @@ This repository includes all raw datasets, transformation models, and the final 
 ## 📸 Dashboard Screenshots
 
 ### Page 1: Executive Overview
-![Executive Overview](Executive_Overview.png)
+![Executive Overview](23.png)
 
 ### Page 2: Detailed Analytics
-![Detailed Analytics](Detailed_Analytics.png)
+![Detailed Analytics](24.png)
 
 ---
 
